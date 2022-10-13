@@ -1,0 +1,18 @@
+h1 {color:blueviolet;
+background-color: aquamarine
+
+}
+p  { color:brown;
+    
+    font-size: large;
+}
+
+#container1 {background-color: aqua;
+border: black  5px dotted;
+
+}
+#container2 {background-color:;
+height: 500px;
+padding: 50px;
+margin: 10px;
+}
